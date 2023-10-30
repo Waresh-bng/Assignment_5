@@ -1,0 +1,32 @@
+{
+    "akib@gmail.com": {
+        "username": "akib",
+        "password": "pass",
+        "role": "admin"
+    },
+    "warashhasan@gmail.com": {
+        "username": "waresh",
+        "password": "1234",
+        "role": "user"
+    },
+    "monitor@gmail.com": {
+        "username": "monitor",
+        "password": "1234",
+        "role": "manager"
+    },
+    "ratan@gmail.com": {
+        "username": "ratan",
+        "password": "1234",
+        "role": "user"
+    },
+    "ewerwe@erfe.geg": {
+        "username": "demo",
+        "password": "1234",
+        "role": "manager"
+    },
+    "ahanaf@gmail.com": {
+        "username": "Ahanaf",
+        "password": "1234",
+        "role": ""
+    }
+}
